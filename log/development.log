@@ -1,0 +1,96 @@
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-11 16:41:32) [GET]
+
+ActionView::MissingTemplate (Missing template pages/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-11 16:42:23) [GET]
+
+ActionView::MissingTemplate (Missing template pages/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-11 16:44:25) [GET]
+
+ActionView::MissingTemplate (Missing template pages/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-11 16:44:26) [GET]
+
+ActionView::MissingTemplate (Missing template pages/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-11 16:44:34) [GET]
+
+ActionView::MissingTemplate (Missing template pages/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-11 16:48:36) [GET]
+
+ActionController::RoutingError (No route matches "/index" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-11 16:48:43) [GET]
+
+ActionController::RoutingError (No route matches "/index.xml" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-11 16:48:59) [GET]
+
+ActionController::RoutingError (No route matches "/pages/index.xml" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-11 16:50:24) [GET]
+
+ActionController::RoutingError (No route matches "/pages/index.xml" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-11 16:50:26) [GET]
+
+ActionController::RoutingError (No route matches "/pages/index.xml" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-11 16:50:27) [GET]
+
+ActionController::RoutingError (No route matches "/pages/index.xml" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-11 16:50:51) [GET]
+
+ActionView::MissingTemplate (Missing template pages/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
