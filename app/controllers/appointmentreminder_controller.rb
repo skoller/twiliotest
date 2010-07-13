@@ -11,6 +11,8 @@ CALLER_ID = 'NNNNNNNNNN'
 
 
 class AppointmentreminderController < ApplicationController
+  def index
+  end
   # Use the Twilio REST API to initiate an outgoing call
   def makecall
   if !params['number']
