@@ -5,7 +5,7 @@ ACCOUNT_TOKEN = 'e948aaf8caad373ae54918c175fd8786'
 # version of the Twilio REST API to use
 API_VERSION = '2008-08-01'
 # base URL of this application
-BASE_URL = "http://morning-rain-78.heroku.com/"
+BASE_URL = "http://morning-rain-78.heroku.com/appointmentreminder/"
 # Outgoing Caller ID you have previously validated with Twilio
 CALLER_ID = 'NNNNNNNNNN'
 
